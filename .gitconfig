@@ -1,0 +1,3 @@
+[filter "commitHash"]
+    clean = ./gitfilters/cleanCommitHash.sh
+    smudge = ./gitfilters/smudgeCommitHash.sh

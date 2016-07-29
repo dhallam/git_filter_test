@@ -1,3 +1,4 @@
 [filter "commitHash"]
+    required
     clean = ./gitfilters/cleanCommitHash.sh
     smudge = ./gitfilters/smudgeCommitHash.sh

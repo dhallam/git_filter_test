@@ -1,3 +1,3 @@
-# This is a comment $COMMIT_HASH e0da751$
+# This is a comment $COMMIT_HASH$
 # another comment 
 print "Hello world!"
